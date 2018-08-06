@@ -1,0 +1,229 @@
+QPA
+-----
+Complete the following:
+
+_________ provides the systematic approach to meet customer requirements resulting 
+into the desired service or product.
+Single Choice - Select one correct answer from the options list.
+QMS
+USM
+UPM
+DELIVER
+
+State TRUE or FALSE:
+
+Although the overall plan is owned by the project manager, all project stakeholder 
+contribute to project planning.
+Single Choice - Select one correct answer from the options list.
+FALSE
+TRUE
+
+Which are not the phases of SDLC ? (Select any two)\
+Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list.
+Design
+Customer satisfaction
+Customization
+Coding
+
+State TRUE or FALSE: 
+
+Projects can also submit technical and process related Best Practices in KM Portal 
+which can act as a reference to other similar projects.
+Single Choice - Select one correct answer from the options list.
+FALSE
+TRUE
+
+________ is a technique or methodology which is a take away from a project during its execution.
+Single Choice - Select one correct answer from the options list.
+Process
+Best Practice
+Recommended tools
+Deliver
+
+Complete the following :
+
+There are two views of Quality. Producer view is ________ and Customer view is ________.
+Single Choice - Select one correct answer from the options list.
+Fit for use, Meeting requirements
+Meeting requirements, Fit for use
+Quality Assurance, Quality Control
+Quality Control, Quality Assurance
+
+Complete the following:
+
+_________  is the Capgemini recommended tool  for Knowledge management.
+Single Choice - Select one correct answer from the options list.
+KM
+PDCA
+VSS
+QTP
+
+Fill in the blanks :
+
+_________ is the activity which helps in defect prevention & reduces the number of defects.
+Single Choice - Select one correct answer from the options list.
+Verification
+Validation
+Configuration management
+Usability testing
+
+Complete the following:
+
+Best practices of Capgemini projects are stored in _________.
+Single Choice - Select one correct answer from the options list.
+QMS
+KM Portal
+USM
+UPM
+
+State TRUE or FALSE:
+
+In risk management, the same solution can be applied for all situations.
+Single Choice - Select one correct answer from the options list.
+TRUE
+FALSE
+
+-------------------------------
+SE
+-----
+
+Complete the following : 
+
+A Software capability needed by the User to solve a problem to achieve an objective 
+is called _________.
+Single Choice - Select one correct answer from the options list.
+Solution
+Requirement
+Usability
+Quality Assurance
+
+State whether True or False :
+
+A single baseline may contain many files.
+Single Choice - Select one correct answer from the options list.
+FALSE
+TRUE
+
+Complete the following :
+
+________ includes a detailed plan drawn to transfer all the necessary information from earlier 
+vendor of the customer including  Documents, lessons learnt, service status etc.,
+Single Choice - Select one correct answer from the options list.
+Requirement transfer
+Document plan
+Knowledge transition
+Knowledge plan
+
+Which of the  following principles that enable Agile methodology to be more effective?
+(Select any three)
+Multiple Choice - This may have multiple correct answers. Select required answer(s) from the options list.
+Communication
+Simplicity
+Documentation
+Feedback
+
+Which type of SDLC model is chosen when the requirements, the development environment 
+and the technology are well known and is more or less permanent ?
+Single Choice - Select one correct answer from the options list.
+Waterfall model
+V model
+RAD model
+Prototyping model
+
+White box testing includes:
+
+(i) Unit Testing  
+(ii) System Testing   
+(iii) Testing all input data
+(iv) Testing loops, internal logic
+Single Choice - Select one correct answer from the options list.
+i,ii,iv
+i,iv
+i,iii
+i,iii,iv
+
+In which phase, activities like knowledge transfer, end user training, project signoff are done ?
+Single Choice - Select one correct answer from the options list.
+Before Acceptatnce Testing
+After Acceptance Testing
+During Acceptance Testing
+After Requirement Analysis
+
+Match the following :
+
+1. Sales and Initial planning
+2. Create Test Strategy
+3. Analyze & Design Test ware
+4. Test Execution & Analysis
+
+A. Develop test cases
+B. Execute tests and reporting 
+C. Analyze and study requirements
+D. Sets the standards for testing process
+Single Choice - Select one correct answer from the options list.
+1-A, 2-D, 3-C, 4-B
+1-D, 2-C, 3-B, 4-A
+1-B, 2-C, 3-A, 4-D
+1-C, 2-D, 3-A, 4-B
+
+Complete the following :
+
+____________ deals with Non functional requirements whereas ________ deals 
+with functional requirements.
+Single Choice - Select one correct answer from the options list.
+Design, Architecture
+Architecture, Design
+SRS, Design
+Client, SRS
+
+ 
+What does configuration management deal with ?
+Single Choice - Select one correct answer from the options list.
+Change Control
+Branching, Merging and Labelling
+Establish Baselines
+All of the above
+
+What do X & Y - represent if a document version is represented as X.Y?
+Single Choice - Select one correct answer from the options list.
+Version number and Revision number
+Document number and Phase number
+Revision number and Version number
+Document number and Release number
+
+Complete the following :
+
+A tester will update actual result during _______ and expected result during _________ 
+in a test case.
+Single Choice - Select one correct answer from the options list.
+Test design, Test execution
+Test execution, Test design
+Defect reporting, Test design
+Test design, Defect reporting
+
+Complete the following:
+
+A set of  processes, standards and tools used to develop, alter software in a optimal 
+manner is called as ________.
+Single Choice - Select one correct answer from the options list.
+STLC
+Best software practice
+Systems Development Life Cycle
+Verification
+
+Match the following:
+
+1) Configuration Manager
+2) Non Configurable Item
+3) Configurable Item
+4) Configuration Management Plan
+
+A) Moves files across projects
+B) Design document
+C) Configuration details of the project
+D) Minutes of the meeting
+
+1-A, 2-D, 3-B, 4-C
+1-A, 2-B, 3-C, 4-D
+1-D, 2-B, 3-A, 4-C
+1-B, 2-A, 3-D, 4-C
